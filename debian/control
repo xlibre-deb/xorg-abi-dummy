@@ -1,0 +1,17 @@
+Source: xorg-abi-dummy
+Section: x11
+Priority: optional
+Maintainer: apebl <a@pebl.cc>
+Standards-Version: 4.7.2
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13)
+
+Package: xorg-video-abi-25-dummy
+Architecture: all
+Provides: xorg-video-abi-25
+Description: Dummy package for xorg-video-abi-25
+
+Package: xorg-input-abi-24-dummy
+Architecture: all
+Provides: xorg-input-abi-24
+Description: Dummy package for xorg-input-abi-24
