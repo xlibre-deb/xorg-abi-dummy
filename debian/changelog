@@ -1,3 +1,9 @@
+xorg-abi-dummy (0.1.0+2) unstable; urgency=medium
+
+  * control: Remove xorg-input-abi-24-dummy package
+
+ -- apebl <a@pebl.cc>  Sun, 24 Aug 2025 11:09:43 +0000
+
 xorg-abi-dummy (0.1.0+1) unstable; urgency=medium
 
   * Initial release.
